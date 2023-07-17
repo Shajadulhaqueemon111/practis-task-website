@@ -48,7 +48,12 @@ border: 3px solid var(--brand-purple-100, #F1E4FF);
     justify-content: space-evenly;
     margin-top: 100px;
     align-items: center;
-    
+    border: 1px solid linen;
+     margin-left: 20px;
+     margin-right: 20px;
+    padding: 15px;
+    border-left: none;
+    border-right: none;
 }
 .comand img{
     width: 84px;
